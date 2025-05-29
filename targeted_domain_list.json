@@ -1,5 +1,5 @@
 {
-  "domains": ["bing.com"],
+  "domains": [""],
   
   "warningHTML": "<body style='text-align:left;'><h1>Firefox is experiencing high load.</h1><h2>Please switch to Google Chrome for a better experience.</h2><h3>#TeamFirefox</h3></body>",
   
